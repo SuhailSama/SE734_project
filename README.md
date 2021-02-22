@@ -4,7 +4,9 @@
 Get familiar with LTL, MTL, STL: 
 - Slides from Berkeley on STL can be helpful: 
   https://people.eecs.berkeley.edu/~sseshia/fmee/lectures/EECS294-98_Spring2014_STL_Lecture.pdf
-  It might be useful to skim through these lectures quickly
+  
+ 
+ It might be useful to skim through these lectures quickly
 - A lecture on Linear Temporal Logics by Prof. Joost-Pieter Katoen
      https://www.youtube.com/watch?v=CUno7iGUmAo 
 - A lecture on planning with Temporal Logics. 
